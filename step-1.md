@@ -80,6 +80,8 @@ This would reload your PATH environment variable to include
 Cargo's bin directory ($HOME/.cargo/bin).
 
 To configure your current shell, run:
-source "$HOME/.cargo/env"
+source "$HOME/.cargo/env"`
+```
+```
 pkisiel@localhost ~ % source "$HOME/.cargo/env"
 ```
